@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+.vite
+tmp
+output
+scripts/__pycache__
