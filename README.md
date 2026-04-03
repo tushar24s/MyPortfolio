@@ -2,6 +2,8 @@
 
 A modern personal portfolio built with React, Vite, Framer Motion, and handcrafted CSS. The site is designed to present Tushar Singh as a frontend-focused, product-minded developer with strong attention to UI quality, responsiveness, and polished interaction design.
 
+Live Project - https://my-portfolio-nici.vercel.app/
+
 ## Overview
 
 This portfolio is a single-page React application with a premium editorial layout, smooth motion, dark/light theme support, interactive project previews, embedded resume viewing, and a contact form that sends messages directly to the configured email inbox.
